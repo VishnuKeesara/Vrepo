@@ -1,0 +1,89 @@
+2022-08-07 13:33:00.048 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.049 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.049 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.049 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.049 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.049 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.049 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.049 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.050 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.050 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:253)] - writing data to index ---> 2
+2022-08-07 13:33:00.053 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [28] 
+2022-08-07 13:33:00.061 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.062 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Business Term at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.096 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Business Term at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.175 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"28","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Business Term to Index is Starting","objectType":"Business Term","objectsCount":0}
+2022-08-07 13:33:00.180 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"28","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Business Term To Index is completed","objectType":"Business Term","objectsCount":0}
+2022-08-07 13:33:00.180 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Business Term at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.180 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.181 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [36] 
+2022-08-07 13:33:00.182 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.182 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Business Policy at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.197 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Business Policy at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.225 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"36","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Business Policy to Index is Starting","objectType":"Business Policy","objectsCount":0}
+2022-08-07 13:33:00.229 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"36","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Business Policy To Index is completed","objectType":"Business Policy","objectsCount":0}
+2022-08-07 13:33:00.229 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Business Policy at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.229 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.230 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [35] 
+2022-08-07 13:33:00.231 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.231 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Business Rule at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.250 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Business Rule at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.275 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"35","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Business Rule to Index is Starting","objectType":"Business Rule","objectsCount":0}
+2022-08-07 13:33:00.281 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"35","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Business Rule To Index is completed","objectType":"Business Rule","objectsCount":0}
+2022-08-07 13:33:00.281 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Business Rule at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.281 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.282 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [98] 
+2022-08-07 13:33:00.283 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.283 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Compliance Reports at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.314 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Compliance Reports at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.354 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Compliance Reports at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.355 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.355 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [20] 
+2022-08-07 13:33:00.356 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.356 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Report at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.371 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Report at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.378 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"20","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Report to Index is Starting","objectType":"Report","objectsCount":0}
+2022-08-07 13:33:00.382 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"20","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Report To Index is completed","objectType":"Report","objectsCount":0}
+2022-08-07 13:33:00.382 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Report at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.382 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.383 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [1] 
+2022-08-07 13:33:00.384 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.384 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for System at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.418 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for System at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.445 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"1","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing System to Index is Starting","objectType":"System","objectsCount":5}
+2022-08-07 13:33:00.531 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"1","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing System To Index is completed","objectType":"System","objectsCount":5}
+2022-08-07 13:33:00.531 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for System at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.531 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.532 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [2] 
+2022-08-07 13:33:00.533 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.533 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Environment at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.559 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Environment at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.580 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"2","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Environment to Index is Starting","objectType":"Environment","objectsCount":18}
+2022-08-07 13:33:00.690 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"2","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Environment To Index is completed","objectType":"Environment","objectsCount":18}
+2022-08-07 13:33:00.690 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Environment at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.690 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.691 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [3] 
+2022-08-07 13:33:00.692 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.692 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Table at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.721 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Table at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.775 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"3","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Table to Index is Starting","objectType":"Table","objectsCount":63}
+2022-08-07 13:33:00.890 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"3","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:00 IST 2022","message":"Writing Table To Index is completed","objectType":"Table","objectsCount":63}
+2022-08-07 13:33:00.890 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Table at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.890 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.891 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [4] 
+2022-08-07 13:33:00.892 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.892 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Column at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:00.921 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Column at --> Sun Aug 07 13:33:00 IST 2022
+2022-08-07 13:33:01.044 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"4","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:01 IST 2022","message":"Writing Column to Index is Starting","objectType":"Column","objectsCount":819}
+2022-08-07 13:33:01.174 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"4","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:01 IST 2022","message":"Writing Column To Index is completed","objectType":"Column","objectsCount":819}
+2022-08-07 13:33:01.174 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Column at --> Sun Aug 07 13:33:01 IST 2022
+2022-08-07 13:33:01.175 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:01 IST 2022
+2022-08-07 13:33:01.175 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:3089)] - Selected modules to sync are:: [8] 
+2022-08-07 13:33:01.176 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:143)] - Assets Syncing starting time :: --> Sun Aug 07 13:33:01 IST 2022
+2022-08-07 13:33:01.176 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:156)] - Deleting old Data for Mapping at --> Sun Aug 07 13:33:01 IST 2022
+2022-08-07 13:33:01.196 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:161)] - Starting Sync for Mapping at --> Sun Aug 07 13:33:01 IST 2022
+2022-08-07 13:33:01.399 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"8","state":"BATCH_SYNC_START","time":"Sun Aug 07 13:33:01 IST 2022","message":"Writing Mapping to Index is Starting","objectType":"Mapping","objectsCount":982}
+2022-08-07 13:33:01.524 INFO [pool-2-thread-1] [vv.a(WriteDiscoverAssetsDataToIndex.java:440)] - {"objectTypeId":"8","state":"BATCH_SYNC_END","time":"Sun Aug 07 13:33:01 IST 2022","message":"Writing Mapping To Index is completed","objectType":"Mapping","objectsCount":982}
+2022-08-07 13:33:01.524 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:193)] - Completed sync for Mapping at --> Sun Aug 07 13:33:01 IST 2022
+2022-08-07 13:33:01.524 INFO [pool-2-thread-1] [vv.b(WriteDiscoverAssetsDataToIndex.java:197)] - Assets Syncing End time :: --> Sun Aug 07 13:33:01 IST 2022
+2022-08-07 13:33:01.835 INFO [pool-2-thread-1] [r.b(SMTPEmailService.java:212)] - Exception occured in the method configureSimpleMailWithAttachment during sending mail with Illegal address
